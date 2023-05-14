@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on **Tech Company**
 
-- 🌱 I’m currently learning **Spring, SpringBoot, Django**
-
-- 💬 Ask me about **WebDev, Stand-Alone, WebServices**
-
 - 📫 How to reach me **jairodev90@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jairo-ramos-a50855a5/](https://www.linkedin.com/in/jairo-ramos-a50855a5/)
 
 - ⚡ Fun fact **Good Developers should know about hardware.**
 
