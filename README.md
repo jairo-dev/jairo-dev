@@ -1,5 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/business-technology-icons-set-business-technology-background_29865-1364.jpg?w=1380)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Jairo Ramos</h1>
 <h3 align="center">A passionate devolper and engeeniring from Brazil, live in Portugal.</h3>
 
