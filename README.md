@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jairo Ramos</h1>
-<h3 align="center">A passionate devolper and engeeniring from Brazil, live in Portugal.</h3>
+<h3 align="center">Não se trata de seguir a corrente, mas a capacidade de mudar o curso dela. </h3>
 
-<p align="left"><img align="right" alt="Coding" width="400" src="https://media.tenor.com/uyqwUbSR-cEAAAAC/the-matrix-has-you-the-matrix.gif"/></p>
-
-- 🔭 I’m currently working on **Tech Company**
+- 🔭 I’m currently working...
 
 - 📫 How to reach me **jairodev90@gmail.com**
 
