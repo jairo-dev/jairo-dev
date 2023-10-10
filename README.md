@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairo Ramos</h1>
-<h3 align="center">**Não se trata de seguir a corenteza, mas a capacidade de mudar o curso dela. **</h3>
+<h3 align="center">**Não se trata de seguir a correnteza, mas a capacidade de mudar o curso dela. **</h3>
 
 - 🔭 I’m currently working...
 
